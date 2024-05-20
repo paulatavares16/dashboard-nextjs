@@ -4,6 +4,9 @@ This repository contains a dashboard project that I completed as part of the Nex
 
 The application is deployed on Vercel and is available at [https://dashboard-nextjs-p16.vercel.app/](https://dashboard-nextjs-p16.vercel.app/).
 
+![ezgif-4-96667f7383](https://github.com/paulatavares16/dashboard-nextjs/assets/34063542/e905ec4f-5f21-4287-a065-eeb3ae9c7afe)
+
+
 ## Features
 
 - **Responsive Design**: Ensures compatibility across different devices and screen sizes.
